@@ -1,10 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/organica)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/organica?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/organica?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/sgCSEk1XsCo?style=social)](https://youtu.be/sgCSEk1XsCo)
+  ![GitHub repo size](https://mdazharul869.github.io/organic-vegetables/)
+  ![GitHub stars](https://img.shields.io/github/stars/mdazharul869/organica?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/mdazharul869/organica?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mdazhar73411624?style=social)](https://twitter.com/intent/follow?screen_name=mdazhar73411624)
 
   <br />
   <br />
@@ -13,7 +12,7 @@
 
   Organica is a fully responsive organic ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/organica/"><strong>➥ Live Demo</strong></a>
+  <a href="https://mdazharul869.github.io/organic-vegetables/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,18 +35,18 @@ To run **Organica** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/organica.git
+sudo git clone https://github.com/mdazharul869/organica.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/organica.git
+git clone https://github.com/mdazharul869/organica.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/@mdazhar73411624).
 
 ### License
 
